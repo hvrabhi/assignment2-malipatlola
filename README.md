@@ -38,3 +38,10 @@ Below is a table where we can find food/drinks and its respective prices. Few it
 | Burger | McDonald's | $10 |
 | Eggs | Walmart | $14 |
 | Fries | Mooyah | $7 |
+
+---
+
+## Life Quotes
+
+> Life is what happens when you’re busy making other plans. Author: *John Lennon.*
+> Many of life’s failures are people who did not realize how close they were to success when they gave up. Author: *Thomas A. Edison*
