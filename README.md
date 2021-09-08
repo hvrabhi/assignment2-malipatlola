@@ -13,3 +13,12 @@ Beaches of Miami are world famous and tourists and travelers come here from the 
     2. Iowa city
     3. Naperville
 3. After crossing Naperville, we will reach Chicago.
+
+
+Below are theitems which should be braught to the place.
+* Clothes to be carried for each day. 
+* For better transactions, cash should be taken.
+* Below tickets to be taken before journey so that travel could be easy.
+    * Tickets for skydeck.
+    * Tickets for 360 chicago view.
+    * Tickets for boat tour.
