@@ -25,6 +25,6 @@ Below are theitems which should be braught to the place.
 
 Let's go to About me and meet king <https://github.com/hvrabhi/assignment2-malipatlola/blob/main/AboutMe.md>
 
-...
+
 ---
-...
+
