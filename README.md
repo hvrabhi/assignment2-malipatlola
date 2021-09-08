@@ -28,3 +28,13 @@ Let's go to About me and meet king <https://github.com/hvrabhi/assignment2-malip
 
 ---
 
+## Food table
+
+Below is a table where we can find food/drinks and its respective prices. Few items are must try.
+
+| Food | Location | Price|
+| --- | --- | --- |
+| Biryani | Kansas | $90 |
+| Burger | McDonald's | $10 |
+| Eggs | Walmart | $14 |
+| Fries | Mooyah | $7 |
