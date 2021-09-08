@@ -23,4 +23,4 @@ Below are theitems which should be braught to the place.
     * Tickets for 360 chicago view.
     * Tickets for boat tour.
 
-Let's go to About me and meet king <C:\Users\s545245\Desktop\1st sem\Web apps\webapps\assignment2-malipatlola\AboutMe.md>
+Let's go to About me and meet king <https://github.com/hvrabhi/assignment2-malipatlola/blob/main/AboutMe.md>
