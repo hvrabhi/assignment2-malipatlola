@@ -23,7 +23,7 @@ Below are theitems which should be braught to the place.
     * Tickets for 360 chicago view.
     * Tickets for boat tour.
 
-Let's go to and meet the [king[(https://github.com/hvrabhi/assignment2-malipatlola/blob/main/AboutMe.md)
+Let's go to and meet the [king](https://github.com/hvrabhi/assignment2-malipatlola/blob/main/AboutMe.md)
 
 
 ---
